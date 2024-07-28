@@ -1,0 +1,9 @@
+Today I learned about data scraping using selenium.I used selenium to scrap data from glassdoor for my upcoming solo 
+project on Salary Estimator of Data Scientist in USA.
+
+How to Run :
+1)Run app.py file
+2)Open another command prompt and paste this url curl -X GET http://127.0.0.1:9696/predict
+
+For any help regarding productionize
+https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
