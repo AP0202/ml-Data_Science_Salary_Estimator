@@ -1,4 +1,4 @@
-#ML Data Science Salary Estimator
+ML Data Science Salary Estimator
 Overview
 The ML Data Science Salary Estimator project aims to predict the salaries of data science professionals based on various features. This project involves scraping data from the internet, cleaning it, performing exploratory data analysis (EDA), and building multiple machine learning models to estimate salaries. The project is containerized using Docker, with monitoring handled by Evidently AI and the machine learning lifecycle managed by MLflow.
 
