@@ -1,9 +1,10 @@
-Today I learned about data scraping using selenium.I used selenium to scrap data from glassdoor for my upcoming solo 
-project on Salary Estimator of Data Scientist in USA.
-
 How to Run :
-1)Run app.py file
-2)Open another command prompt and paste this url curl -X GET http://127.0.0.1:9696/predict
+1)Run the docker container. It will run the application
+2)Open another command prompt and paste this url curl -X GET http://127.0.0.1:9696/predict. This will send the input data to get the prediction.
 
-For any help regarding productionize
-https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
+Run the model building notebook, where all the below technology is defined.
+Once ran, you can go to the given localhost ports to see the data.
+
+mlflow - http://127.0.0.1:5000
+adminer - localhost:8080
+evidently ai - localhost:3000
